@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1476562888 source:c:\users\krietallo\desktop\v\src\a.cpp
+	"a.h"
+
+1476563101 c:\users\krietallo\desktop\v\include\a.h
+	<iostream>
+
+1476563360 source:c:\users\krietallo\desktop\v\src\vector.cpp
+	"Vector.h"
+
+1476569693 c:\users\krietallo\desktop\v\include\vector.h
+	<stdio.h>
+	<stdlib.h>
+
+1476569717 source:c:\users\krietallo\desktop\v\main.cpp
+	<iostream>
+	"Vector.h"
+
